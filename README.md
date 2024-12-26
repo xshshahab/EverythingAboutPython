@@ -5,4 +5,7 @@ I'm adding notes for each series so that you can easily navigate through the ser
 ### Series 1: Python Basics
 
 - **Day 1:** Introduction to Python
-- **Code and Notes :** [Python Basics Day 1](https://github.com/xshshahab/EverythingAboutPython)
+- **Code and Notes :** [Python Basics Day 1](https://github.com/xshshahab/EverythingAboutPython/tree/main/01_Day)
+
+- **Day 2:** Module and pip basic
+- **Code and Notes :** [Python Basics Modules and Pip Day 1](https://github.com/xshshahab/EverythingAboutPython/tree/main/02_Day)
