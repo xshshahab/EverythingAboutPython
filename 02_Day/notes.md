@@ -61,11 +61,15 @@ p is greater than 5.
 
 -**Example 2: The use of multiline string.**
 
+- In python, you can write a multi-line comment using multiline string.
+- The multiline string is enclosed in triple quotes.
+- The triple quotes can be either single or double quotes.
+
+```bash
 """This is an if-else statement.
 It will execute a block of code if a specified condition is true.
 If the condition is false then it will execute another block of code."""
 
-```bash
 p = 7
 if (p > 5):
 print("p is greater than 5.")
