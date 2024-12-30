@@ -1,0 +1,4 @@
+                            --- [Boolean] ---
+
+- Converts data to a boolean value (True or False).
+- Non-zero values are considered True, while zero and empty strings are considered False.

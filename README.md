@@ -12,3 +12,10 @@ I'm adding notes for each series so that you can easily navigate through the ser
 
 - **Day 3:** Variable and DataType
 - **Code and Notes :** [Python Basics Modules and Pip Day 2](https://github.com/xshshahab/EverythingAboutPython/tree/main/VariableDataType)
+
+- **Operators**
+- **Code and Notes :** [Python Basics Operators](https://github.com/xshshahab/EverythingAboutPython/tree/main/Operators)
+
+-- [**Practice set**]
+
+- basic calculator hardcoded value.
