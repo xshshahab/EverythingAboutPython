@@ -19,3 +19,11 @@ I'm adding notes for each series so that you can easily navigate through the ser
 -- [**Practice set**]
 
 - basic calculator hardcoded value.
+
+- **TypeCasting**
+
+- **Day 4:** Taking input from user.
+- **Code and Notes :** [Python Basics Taking Input](https://github.com/xshshahab/EverythingAboutPython/tree/main/TakingInput)
+
+- **Day 5:** Strings
+- **Code and Notes :** [Python Basics Strings](https://github.com/xshshahab/EverythingAboutPython/tree/main/Strings)
