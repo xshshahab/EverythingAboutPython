@@ -1,0 +1,5 @@
+1. String methods operate on strings and return new strings. The original string remains unchanged.
+2. Methods like lower(), upper(), and capitalize() are useful for formatting text.
+3. Methods like split() and join() are handy for breaking strings into lists and combining lists into strings.
+4. Methods like isalpha(), isdigit(), and isalnum() are great for validation.
+5. Methods like find(), replace(), and count() help with searching and modifying text.
