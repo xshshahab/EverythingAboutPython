@@ -1,0 +1,5 @@
+## Install pyjokes
+
+```bash
+pip install pyjokes
+```
